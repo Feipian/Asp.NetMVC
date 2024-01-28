@@ -259,3 +259,4 @@ C:\Users\s1109\source\repos\MvcMovie\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\
 C:\Users\s1109\source\repos\MvcMovie\MvcMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\s1109\source\repos\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\s1109\source\repos\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.CopyComplete
+C:\Users\s1109\source\repos\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
